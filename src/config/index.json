@@ -53,12 +53,12 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 318 5655810",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "luzmary.mutis@yahoo.com",
         "icon": "/assets/images/email.png"
       },
       {
@@ -68,7 +68,7 @@
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "LUZ MARY MUTIS",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
