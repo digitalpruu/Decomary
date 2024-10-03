@@ -62,14 +62,10 @@
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
-      },
-      {
         "name": "Facebook",
-        "description": "LUZ MARY MUTIS",
-        "icon": "/assets/images/facebook.jpg"
+        "description": "Decomary",
+        "icon": "/assets/images/facebook.jpg",
+        "url": "https://www.facebook.com/people/Decomary/61566110604658/?mibextid=ZbWKwL"
       }
     ]
   },
